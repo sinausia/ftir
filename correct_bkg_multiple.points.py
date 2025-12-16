@@ -1,5 +1,5 @@
 '''
-
+testing shit
 Just run it. It will create a window where you select file and etc. If it doesn't work, try to reverse the order, by switching
 
     df = pd.read_csv(self.file_path, header=None, skiprows=1).iloc[:, :]#[::-1]
